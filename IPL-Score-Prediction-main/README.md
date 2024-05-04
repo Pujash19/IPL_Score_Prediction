@@ -26,7 +26,7 @@ _**----- Important Note -----**_<br />
 ![Heroku-Error](readme_resources/application-error.png)
 
 
-• Please do ⭐ the repository, if it helped you in anyway.
+
 
 
 
